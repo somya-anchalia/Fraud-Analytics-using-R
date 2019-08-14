@@ -2,7 +2,7 @@
 
 Learn how to effectively work around pricing to find out answers to key questions related to business analysis. We are using sophisticated statistical tools like R and Tableau to analyze data.this training is a practical and a quantitative course which will help you learn fraud analytics with the perspective of a data scientist. The learner of this course will learn the most relevant techniques used in the real world by data analysts of companies around the world.
 
-The training includes the following;
+The training includes the following:
 
 Introduction to Fraud
 
